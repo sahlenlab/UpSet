@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/sahlenlab/UpSet/blob/main/movies.csv",
+	"file": "https://raw.githubusercontent.com/sahlenlab/UpSet/main/movies.csv",
 	"name": "Online Movies Genres ",
 	"header": 0,
 	"separator": ";",
