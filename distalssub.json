@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/sahlenlab/UpSet/main/distalssub.csv",
+	"name": "Distal TFs KN ",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "RefSeqName" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 217 }
+	]
+}
